@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Light theme tweaks */
+:root { color-scheme: light; }
+html, body, #root { height: 100%; }
+
+/* Optional: nicer scrollbars */
+* { scrollbar-width: thin; scrollbar-color: #cbd5e1 #f1f5f9; }
+*::-webkit-scrollbar { height: 8px; width: 8px; }
+*::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 999px; }
+*::-webkit-scrollbar-track { background: #f1f5f9; }
