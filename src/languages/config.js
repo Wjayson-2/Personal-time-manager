@@ -5,7 +5,7 @@ export const translations = {
         nav: { home: "Home", pomodoro: "Pomodoro", calendar: "Calendar", langToggle: "中文" },
         home: {
             title: "Light, simple tools for focus & planning",
-            desc: "A calm study environment with a distraction-free Pomodoro timer and a clean calender for Shanghai high school students.",
+            desc: "A calm study environment with a distraction-free Pomodoro timer and a clean calendar for Shanghai high school students.",
             btnPomodoro: "Open Pomodoro",
             btnCalendar: "Open Calendar",
         },
