@@ -1,7 +1,7 @@
 export const translations = {
     en: {
         siteName: "Your Personal Time Manager",
-        footer: " ",
+        footer: "Jayson WANG",
         nav: { home: "Home", pomodoro: "Pomodoro", calendar: "Calendar", langToggle: "中文" },
         home: {
             title: "Light, simple tools for focus & planning",
@@ -35,7 +35,7 @@ export const translations = {
 
     zh: {
         siteName: "时间管理助理",
-        footer: " ",
+        footer: "Jayson WANG",
         nav: { home: "首页", pomodoro: "番茄钟", calendar: "日历", langToggle: "EN" },
         home: {
             title: "轻盈, 简洁的时间规划工具",
