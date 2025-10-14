@@ -33,7 +33,7 @@ export default function App() {
                 </motion.main>
             </AnimatePresence>
             <footer className="mt-16 py-8 text-center text-sm text-slate-500">
-                {footerText} © 2023
+                © 2023 {footerText}
             </footer>
         </div>
     );
